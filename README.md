@@ -106,4 +106,4 @@ Berikut rincian spesifikasi komponen fisik dan modul yang dibutuhkan untuk memba
 ---
 
 ## 📄 Lisensi
-Didistribusikan di bawah lisensi open-source **MIT License**. Dikembangkan oleh **Muhammad Fikri**.
+Didistribusikan di bawah lisensi open-source **MIT License**. Dibuat dengan ❤️ oleh **Muhammad Fikri Dev**.
